@@ -1,0 +1,1164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="Categories">
+        <item>Select Category</item>
+        <item>Advertising &amp; Marketing</item>
+        <item>Air Conditioning</item>
+        <item>Astrology</item>
+        <item>Automobile &amp; Car Accessories</item>
+        <item>Bank</item>
+        <item>Boutiques</item>
+        <item>Spa &amp; Saloon</item>
+        <item>Building Material &amp; Construction Contractors</item>
+        <item>Car Hire &amp; Leasing</item>
+        <item>Cargo Services</item>
+        <item>Catering</item>
+        <item>Cinema</item>
+        <item>Cleaning &amp; Janitorial Services</item>
+        <item>Clinics</item>
+        <item>Computer</item>
+        <item>Courier Services</item>
+        <item>Dentist</item>
+        <item>Digital Printing</item>
+        <item>Electricians &amp; Electromechanical Contractors</item>
+        <item>Electronics</item>
+        <item>Engineers - Consulting</item>
+        <item>Event Management</item>
+        <item>Food &amp; Fruit Dealers</item>
+        <item>Furniture</item>
+        <item>Gym</item>
+        <item>Hospital</item>
+        <item>Hotels</item>
+        <item>Hardware</item>
+        <item>Interior Decorators &amp; Designers</item>
+        <item>Labour Supply</item>
+        <item>Lawyers</item>
+        <item>Marble &amp; Granite - Mfrs &amp; Suppliers</item>
+        <item>Medical Equipment Suppliers</item>
+        <item>Mineral Water</item>
+        <item>Oil Companies</item>
+        <item>Pest Control</item>
+        <item>Pets Care</item>
+        <item>Pharmacy</item>
+        <item>Pipe &amp; Pipe Fitting Suppliers</item>
+        <item>Plastics &amp; Plastic Products Mfrs &amp; Suppliers</item>
+        <item>Real Estate</item>
+        <item>Pharmacy</item>
+        <item>Recruitment Consultants</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Safety &amp; Security</item>
+        <item>Shipping Companies &amp; Agents</item>
+        <item>Steel Fabricators &amp; Engineers</item>
+        <item>Supermarket</item>
+        <item>Textiles</item>
+        <item>Transport Companies</item>
+        <item>Travel Agents</item>
+        <item>Tyre Dealers</item>
+        <item>Typing Centers</item>
+        <item>Jewellers</item>
+        <item>Florists</item>
+        <item> Charity Organisations</item>
+        <item>Ministries and Govt. Department</item>
+        <item>Embassies &amp; Consulates</item>
+        <item>Colleges and Universities</item>
+        <item>Driving Institutions</item>
+        <item>Educational Institutes</item>
+        <item>Radio Stations</item>
+        <item>TV Stations</item>
+        <item>Insurance Companies</item>
+        <item>Photo Studios</item>
+        <item>Accountants</item>
+        <item>Houseware Dealers</item>
+        <item>Laundries</item>
+        <item>Bookshop</item>
+        <item>Foot Wear</item>
+        <item>Opticals</item>
+    </string-array>
+    <string-array name="cityNames">
+        <item>Select City</item>
+        <item>Abu Dhabi</item>
+        <item>Ajman</item>
+        <item>Al Ain</item>
+        <item>Dubai</item>
+        <item>Fujairah</item>
+        <item>Sharjah</item>
+        <item>Ras Al Khaimah</item>
+        <item>Umm Al Quwain</item>
+    </string-array>
+    <string-array name="fi">
+        <item>A</item>
+        <item>Almak</item>
+        <item>Anlamak</item>
+        <item>Anlasmak</item>
+        <item>Anlatmak</item>
+        <item>Ayrilmak</item>
+    </string-array>
+    <color name="com_facebook_blue">#3B5998</color>
+    <color name="com_facebook_likeboxcountview_border_color">#6a7180</color>
+    <color name="com_facebook_likeboxcountview_text_color">#6a7180</color>
+    <color name="com_facebook_likebutton_text_color">#FFFFFF</color>
+    <color name="com_facebook_likeview_text_color">#6a7180</color>
+    <color name="com_facebook_loginview_text_color">#FFFFFF</color>
+    <color name="com_facebook_picker_search_bar_background">#f5f5f7</color>
+    <color name="com_facebook_picker_search_bar_text">#bcbdc2</color>
+    <color name="com_facebook_usersettingsfragment_connected_shadow_color">#000000</color>
+    <color name="com_facebook_usersettingsfragment_connected_text_color">#FFFFFF</color>
+    <color name="com_facebook_usersettingsfragment_not_connected_text_color">#A6AED7</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_signin_btn_dark_text_default">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_dark_text_focused">@android:color/white</color>
+    <color name="common_signin_btn_dark_text_pressed">@android:color/white</color>
+    <color name="common_signin_btn_default_background">#FFDD4B39</color>
+    <color name="common_signin_btn_light_text_default">#FF737373</color>
+    <color name="common_signin_btn_light_text_disabled">#FFAAAAAA</color>
+    <color name="common_signin_btn_light_text_focused">#FF737373</color>
+    <color name="common_signin_btn_light_text_pressed">@android:color/white</color>
+    <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+    <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
+    <color name="wallet_bright_foreground_holo_light">#ff000000</color>
+    <color name="wallet_dim_foreground_disabled_holo_dark">#80bebebe</color>
+    <color name="wallet_dim_foreground_holo_dark">#bebebe</color>
+    <color name="wallet_dim_foreground_inverse_disabled_holo_dark">#80323232</color>
+    <color name="wallet_dim_foreground_inverse_holo_dark">#323232</color>
+    <color name="wallet_highlighted_text_holo_dark">#6633b5e5</color>
+    <color name="wallet_highlighted_text_holo_light">#6633b5e5</color>
+    <color name="wallet_hint_foreground_holo_dark">#808080</color>
+    <color name="wallet_hint_foreground_holo_light">#808080</color>
+    <color name="wallet_holo_blue_light">#ff33b5e5</color>
+    <color name="wallet_link_text_light">#0000ee</color>
+    <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
+    <declare-styleable name="MapAttrs"><attr format="enum" name="mapType"><enum name="none" value="0"/><enum name="normal" value="1"/><enum name="satellite" value="2"/><enum name="terrain" value="3"/><enum name="hybrid" value="4"/></attr><attr format="float" name="cameraBearing"/><attr format="float" name="cameraTargetLat"/><attr format="float" name="cameraTargetLng"/><attr format="float" name="cameraTilt"/><attr format="float" name="cameraZoom"/><attr format="boolean" name="uiCompass"/><attr format="boolean" name="uiRotateGestures"/><attr format="boolean" name="uiScrollGestures"/><attr format="boolean" name="uiTiltGestures"/><attr format="boolean" name="uiZoomControls"/><attr format="boolean" name="uiZoomGestures"/><attr format="boolean" name="useViewLifecycle"/><attr format="boolean" name="zOrderOnTop"/></declare-styleable>
+    <declare-styleable name="WalletFragmentOptions"><attr format="enum" name="theme"><enum name="holo_dark" value="0"/><enum name="holo_light" value="1"/></attr><attr format="enum" name="environment"><enum name="production" value="1"/><enum name="sandbox" value="0"/><enum name="strict_sandbox" value="2"/></attr><attr format="reference" name="fragmentStyle"/><attr format="enum" name="fragmentMode"><enum name="buyButton" value="1"/><enum name="selectionDetails" value="2"/></attr></declare-styleable>
+    <declare-styleable name="WalletFragmentStyle"><attr format="dimension" name="buyButtonHeight"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="dimension" name="buyButtonWidth"><enum name="match_parent" value="-1"/><enum name="wrap_content" value="-2"/></attr><attr format="enum" name="buyButtonText"><enum name="buy_with_google" value="1"/><enum name="buy_now" value="2"/><enum name="book_now" value="3"/></attr><attr format="enum" name="buyButtonAppearance"><enum name="classic" value="1"/><enum name="grayscale" value="2"/><enum name="monochrome" value="3"/></attr><attr format="reference" name="maskedWalletDetailsTextAppearance"/><attr format="reference" name="maskedWalletDetailsHeaderTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsBackground"/><attr format="reference" name="maskedWalletDetailsButtonTextAppearance"/><attr format="reference|color" name="maskedWalletDetailsButtonBackground"/><attr format="color" name="maskedWalletDetailsLogoTextColor"/><attr format="enum" name="maskedWalletDetailsLogoImageType"><enum name="classic" value="1"/><enum name="monochrome" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_friend_picker_fragment"><attr format="boolean" name="multi_select"/></declare-styleable>
+    <declare-styleable name="com_facebook_like_view"><attr format="color" name="foreground_color"/><attr format="string" name="object_id"/><attr name="style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
+    <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="confirm_logout"/><attr format="boolean" name="fetch_user_info"/><attr format="string" name="login_text"/><attr format="string" name="logout_text"/></declare-styleable>
+    <declare-styleable name="com_facebook_picker_fragment"><attr format="boolean" name="show_pictures"/><attr format="string" name="extra_fields"/><attr format="boolean" name="show_title_bar"/><attr format="string" name="title_text"/><attr format="string" name="done_button_text"/><attr format="reference" name="title_bar_background"/><attr format="reference" name="done_button_background"/></declare-styleable>
+    <declare-styleable name="com_facebook_place_picker_fragment"><attr format="integer" name="radius_in_meters"/><attr format="integer" name="results_limit"/><attr format="string" name="search_text"/><attr format="boolean" name="show_search_box"/></declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view"><attr name="preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="is_cropped"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_radius">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_border_width">1dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_height">3dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_caret_width">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_padding">6dp</dimen>
+    <dimen name="com_facebook_likeboxcountview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_likebutton_compound_drawable_padding">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_bottom">0dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_left">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_right">8dp</dimen>
+    <dimen name="com_facebook_likebutton_padding_top">0dp</dimen>
+    <dimen name="com_facebook_likebutton_text_size">13.0sp</dimen>
+    <dimen name="com_facebook_likeview_edge_padding">2dp</dimen>
+    <dimen name="com_facebook_likeview_internal_padding">6dp</dimen>
+    <dimen name="com_facebook_likeview_text_size">11.0sp</dimen>
+    <dimen name="com_facebook_loginview_compound_drawable_padding">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_bottom">12dp</dimen>
+    <dimen name="com_facebook_loginview_padding_left">12dip</dimen>
+    <dimen name="com_facebook_loginview_padding_right">16dp</dimen>
+    <dimen name="com_facebook_loginview_padding_top">12dp</dimen>
+    <dimen name="com_facebook_loginview_text_size">16.0sp</dimen>
+    <dimen name="com_facebook_picker_place_image_size">64dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_large">180dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_normal">100dp</dimen>
+    <dimen name="com_facebook_profilepictureview_preset_size_small">50dp</dimen>
+    <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_height">64dp</dimen>
+    <dimen name="com_facebook_usersettingsfragment_profile_picture_width">64dp</dimen>
+    <drawable name="com_facebook_picker_default_separator_color">#33464c59</drawable>
+    <integer name="google_play_services_version">5089000</integer>
+    <string name="action_settings">Settings</string>
+    <string name="any_text">
+&lt;font color=#000000>Not a registered user yet? &lt;font color=#0000ff>Sign up now!
+
+
+    </string>
+    <string name="app_id">337661936386046</string>
+    <string name="app_name">Dubai Dial</string>
+    <string name="blankSearhString">Please enter some text to search or select any category.</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <string name="comment">"some thing abt this hotel is good that i have mentioned in this coment please chek this."</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">This app won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <ns1:g id="app_name">%1$s</ns1:g></string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone">This app won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet">This app won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">This app won\'t run unless you update Google Play services.</string>
+    <string msgid="1788179980625863495" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="enter_all_details">Please enter all details</string>
+    <string name="eula">TERMS OF USE FOR SEARCH SERVICES SEARCH ENGINE DUBAI DIAL &amp;amp;
+
+Privacy Policy:
+
+TERMS OF USE FOR SEARCH SERVICES/SEARCH ENGINE/DUBAI DIAL:
+
+YOUR ACCEPTANCE OF THIS AGREEMENT: This is an agreement between you ("you", 
+
+“your" "caller" or "user") and M/s. Infinite Leads FZ-LLC. ("Infinite leads " "we," or "our") that 
+
+governs your use of the search, booking services or any other services offered by M/s. Infinite Leads 
+
+FZ-LLC through its website www.dubaidial.com ("Website"), telephone search, SMS, WAP, mobile 
+
+application or any other medium (collectively "Platforms" ). When you access, use or book any orders 
+
+using any of the Platforms, you agree to be bound by these Terms and Conditions ("Terms").
+
+1. Definitions &amp;amp; Interpretations
+
+"Agreement" is for the purposes of placing an order of goods through its advertiser registered/listed with 
+
+M/s. Infinite Leads FZ- LLC as described in this agreement. All the orders/enquiries placed by you 
+
+through its website www.dubaidial.com ("Website"), telephone search, SMS, WAP, mobile application 
+
+or any other medium, shall be forwarded by M/s Infinite Leads FZ-LLC to the advertisers listed with us, 
+
+for further processing of your orders.
+
+"Goods" means Goods described in an Order form.
+
+"Intellectual Property Rights" Includes all rights in respect of copyright, trademarks, patents, designs, 
+
+protection of confidential information and circuit layouts, whether arising under statute or otherwise 
+
+registered under Trade Mark Act of U.A.E, As per Patent Laws and Copy Right Act of U.A.E.
+
+"Order" means an enquiries/ booking request placed by you through M/s. Infinite Leads FZ-LLC which 
+
+will in turn will be forwarded to respective Advertiser listed with us via website.
+
+"Product List" means the list of Goods displayed on the www.dubaidial.com-DD ("Website") as 
+
+amended from time to time.
+
+2. Applicability 
+
+The terms of use will be applicable between you and M/s Infinite Leads FZ- LLC once you have placed 
+
+the order for goods as described in this agreement.
+
+3. Placement of Order
+
+You have the option of placing the order by calling to M/s Infinite Leads FZ- LLC Call Centre Number 
+
+and/or by using the booking facility provided on the web, wap , mobile application or by any other means 
+
+as introduced by Infinite Leads FZ LLCC from time to time.
+
+4. Responsibilities
+
+M/s Infinite Leads FZ - LLC does not sell or claim to sell any liquor or any other product online by 
+
+itself.
+
+M/s Infinite Leads FZ- LLC collects customer orders and forwards them to the advertiser which may or 
+
+may not choose to complete the order.
+
+M/s Infinite Leads FZ-LLC is also not responsible for the Quality of any food or other products ordered 
+
+from the website.
+
+To order goods from M/s Infinite Leads FZ -LLC platforms you must be of legal age as specified by 
+
+the appropriate authority and/or as defined in this agreement. Kindly note that persons residing in UAE 
+
+(under 25 years of age or any other age limit/or any other restrictions specified by the appropriate 
+
+authorities) are not permitted to place orders for alcohol, its related products, goods and or any other 
+
+specified goods by the appropriate authority. M/s Infinite Leads FZ-LLC hereby confirms that they shall 
+
+not be responsible for orders relating to Liquor or any other related products and its delivery.
+
+4. Order Completion
+
+You must complete or give requisite details for completing an order form for the purposes of booking 
+
+your order. You warrant that all information and data provided by you in the order form is accurate, 
+
+complete and up to date. If you are placing an order through phone then in that event your order is 
+
+deemed to be completed once the details are filled by the Executive working/representing M/s. Infinite 
+
+Leads FZ-LLC and in case you are placing an online order through website, it is deemed to be complete, 
+
+once the details are filled online in the order form.
+
+5. Delivery
+
+You hereby confirm all products/services are subject to availability and you acknowledge the fact 
+
+that Booking of Orders are taken/booked by M/s Infinite Leads FZ-LLC but the goods/products are 
+
+delivered by advertiser listed with M/s. Infinite Leads FZ-LLC.
+
+No medicine would be delivered by the vendor/ chemist without the valid medical prescription issued by 
+
+the medical practitioner 
+
+6. Miscalculation of Charges/Fees
+
+If the calculation of the fee/charges is insufficient to cover the actual cost of goods which is paid by 
+
+the advertiser to its wholesaler/supplier, then Advertiser is not obligated to fulfill your order. Where 
+
+Advertiser chooses not to absorb the additional fee, Advertiser will notify you that the calculations are 
+
+different from real costs and offer you the option of paying the difference and going ahead with the order. 
+
+You may choose to proceed and pay the higher delivery fee or cancel the order.
+
+7. Return or Refunds
+
+If at any time You are not satisfied with the quality of the Goods you have purchased, You may contact 
+
+the Customer Care of M/s. Infinite Leads FZ-LLC wherein your complaint will be registered and 
+
+shall be forwarded to the respective Advertiser/Supplier for its resolution or you can directly complaint 
+
+to Advertiser and may claim for a credit, replacement or refund of the purchased, damaged or incorrect 
+
+product. Further, you hereby confirm and agree that the You will not claim or allege anything against 
+
+Infinite Leads FZ LLC in respect of the goods/services which are provided to you by the Advertiser/
+
+Supplier.
+
+8. Pricing
+
+M/s. Infinite Leads FZ-LLC reserves the right to alter prices of goods/services at any time as requested 
+
+by the respected advertiser/Supplier of goods. All prices quoted shall be in AED or USD. All orders are 
+
+subject to availability and confirmation by the advertiser/Supplier of the goods and services.
+
+If any product/services ordered is unavailable or incorrectly priced then the Advertiser shall advise you 
+
+regarding the actual price of the product before delivery or shall recommend a suitable substitute of the 
+
+product.
+
+9. Cancellation and Modification
+
+Cancellation or modification of any bookings made through the website shall be strictly in accordance 
+
+with the Advertisers modification and cancellation policy, including with respect to refund. You may 
+
+directly contact the respective advertiser and/or M/s. Infinite Leads FZ-LLC for processing any requests 
+
+pertaining to cancellation or modification. The cancellation and modification request made by you to M/s. 
+
+Infinite Leads FZ-LLC will be forwarded to respective advertiser for its resolution.
+
+We, M/s. Infinite Leads FZ-LLC reserve the right, in its sole discretion and without any obligation, 
+
+to make improvements to, or correct any error or omissions in, any portion of the Platforms. Wherever 
+
+it deems appropriate, we shall endeavor to update information listed on the Website on a timely and 
+
+accurate basis, but shall not be liable for any inaccuracies.
+
+We, M/s. Infinite Leads FZ-LLC reserve the right to disable links to or from third-party sites to any 
+
+of our Platforms, although we are under no obligation to do so. This right to disable links includes links 
+
+to or from advertisers, sponsors, and content partners that may use our Marks as part of a co-branding 
+
+relationship.
+
+All those sections in the Platforms that invite reader participation will contain views, opinion, suggestion, 
+
+comments and other information provided by the general public, and Infinite Leads will at no point of 
+
+time be responsible for the accuracy or correctness of such information. We M/s. Infinite Leads FZ-
+LLC reserves the absolute right to accept/reject information from readers and/or advertisements from 
+
+Advertisers and impose/relax Platforms access rules and regulations for any user(s).
+
+We, M/s. Infinite Leads FZ-LLC also reserves the right to impose/change the access regulations of the 
+
+Platforms, whether in terms of access fee, timings, equipment, access restrictions or otherwise, which 
+
+shall be posted from time to time under these terms and conditions. It is the responsibility of users to refer 
+
+to these terms and conditions each time they use the Platforms.
+
+While every attempt has been made to ascertain the authenticity of the content in the Platforms, M/
+
+s. Infinite Leads FZ-LLC is not liable for any kind of damages, losses or action arising directly or 
+
+indirectly, due to access and/or use of the content in the Platforms including but not limited to any 
+
+decisions based on content in the Platforms resulting in loss of data, revenue, profits, property, infection 
+
+by viruses etc.
+
+10. DISCLAIMERS
+
+10.1 Content disclaimer:
+
+We have no control over and are not responsible for the content of any third-party websites linked to or 
+
+framed within the Website, or any third-party advertisements and We expressly disclaim (and do not 
+
+endorse or verify) the accuracy or reliability of the content on any such third-party websites. Those links 
+
+are provided for your convenience only and may not remain current or be maintained. Website links on 
+
+this Website should not be construed as an endorsement, approval or recommendation by us of the linked 
+
+website or its content. We are not responsible for the content or privacy practices or policies associated 
+
+with linked websites. When viewing a third party website, you should read the terms, conditions and 
+
+privacy statements/policies detailed on that website. Your use of or reliance upon such third-party 
+
+websites is at your own risk.
+
+We derive our information from sources which we believe to be accurate and up to date at the time of 
+
+publication. No information on the Site is intended as, or constitutes, professional advice, and should 
+
+not be relied upon as such. All information provided on the Website is provided in good faith. We do 
+
+not make any representation or warranty that the information provided is timely, reliable, accurate or 
+
+complete; and will not be liable for any claim or loss resulting from any action taken, or reliance made 
+
+by you on any information, material or advice provided on the Website, or for any incorrect information 
+
+provided on the Website. No person should act or refrain from acting in reliance upon the information 
+
+in the Site without seeking suitable prior professional advice or contacting M/s. Infinite Leads FZ-LLC 
+
+directly.
+
+We M/s. Infinite Leads FZ-LLC reserve the right to change, update or terminate the Website and 
+
+Content or any part of them at any time in our absolute discretion, without notice or liability to you.
+
+All of the data on products and promotions including but not limited to, the prices and the availability of 
+
+any product or service or any feature thereof, is subject to change without notice by the party providing 
+
+the product or promotion. None of the information contained in the Site constitutes a recommendation, 
+
+solicitation or offer by M/s. Infinite Leads FZ-LLC or its affiliates to buy or sell any securities or other 
+
+financial instruments or provide any investment advice or service. You should use discretion while using 
+
+the Platforms.
+
+10.2 Warranty DISCLAIMER
+
+M/s. Infinite Leads FZ-LLC mandates that any provider of goods or services shall be entitled to 
+
+register with www.dubaidial.com-DD ("Website"). Infinite Leads FZ LLC does not examine whether 
+
+the Advertisers are good, reputable or quality sellers of goods / service providers. You must satisfy 
+
+yourself about all relevant aspects prior to booking / availing services. Infinite Leads has agreed to 
+
+deliver the services but has not negotiated or discussed any terms of engagement with any of the 
+
+Advertisers and shall not be liable to you (whether under the UAE law or otherwise) in relation to 
+
+the contents of, or use of or otherwise in connection with this website. The user is solely responsible 
+
+for the use of the website while booking, purchasing and availing goods and services from Advertisers 
+
+which shall be at his/her own risk and in any event regardless of cause M/s. Infinite Leads FZ-LLC
+
+shall not be held liable for any indirect, special, incidental, punitive or consequential damages of 
+
+any kind, whether arising under breach of contract, tort (including negligence), strict liability or 
+
+otherwise, and whether based on this agreement or otherwise, even if advised of the possibility of 
+
+such damages.
+
+YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE USE OF THIS PLATFORMS 
+
+AND THE INTERNET GENERALLY. THE FOREGOING LIMITATIONS SHALL APPLY 
+
+NOTWITHSTANDING ANY FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED 
+
+REMEDY AND TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW. 
+
+SOME COUNTRIES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY 
+
+OF CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE EXCLUSIONS MAY 
+
+NOT APPLY TO ALL USERS; IN SUCH COUNTRIES LIABILITY IS LIMITED TO THE 
+
+FULLEST EXTENT PERMITTED BY LAW.
+
+We do not investigate, represent or endorse the accuracy, legality, legitimacy, validity or reliability 
+
+of any products, services, deals, coupons or other promotions or materials, including advice, ratings, 
+
+and recommendations contained on, distributed through, or linked, downloaded or accessed from the 
+
+Platforms.
+
+References that we make to any names, marks, products or services of third parties or hypertext 
+
+links to third party sites or information do not constitute or imply our endorsement, sponsorship or 
+
+recommendation of the third party, of the quality of any product or service, advice, information or 
+
+other materials displayed, purchased, or obtained by you as a result of an advertisement or any other 
+
+information or offer in or in connection with the Platforms.
+
+THE MATERIAL AND THE PLATFORMS USED TO PROVIDE THE MATERIAL (INCLUDING 
+
+THE WEBSITE ) ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTY OF 
+
+ANY KIND, EITHER EXPRESS OR IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED 
+
+TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+
+PURPOSE, OR NON-INFRINGEMENT. INFINITE LEADS DISCLAIMS, TO THE FULLEST 
+
+EXTENT PERMITTED UNDER LAW, ANY WARRANTIES REGARDING THE SECURITY, 
+
+RELIABILITY, TIMELINESS, ACCURACY AND PERFORMANCE OF THE PLATFORMS AND 
+
+MATERIALS. INFINITE LEADSDOES NOT WARRANT THAT ANY DEFECTS OR ERRORS 
+
+WILL BE CORRECTED; OR THAT THE CONTENT IS FREE OF VIRUSES OR OTHER HARMFUL 
+
+COMPONENTS.
+
+M/s. INFINITE LEADS FZ LLCC DISCLAIMS ANY AND ALL WARRANTIES TO THE FULLEST 
+
+EXTENT OF THE LAW, INCLUDING ANY WARRANTIES FOR ANY INFORMATION, GOODS, 
+
+OR SERVICES, OBTAINED THROUGH, ADVERTISED OR RECEIVED THROUGH ANY 
+
+LINKS PROVIDED BY OR THROUGH THE PLATFORMS SOME COUNTRIES OR OTHER 
+
+JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE 
+
+ABOVE EXCLUSIONS MAY NOT APPLY TO YOU. YOU MAY ALSO HAVE OTHER RIGHTS 
+
+THAT VARY FROM COUNTRY TO COUNTRY AND JURISDICTION TO JURISDICTION.
+
+10.3 DISCLAIMER for "Infinite Leads FZ LLC GUARANTEE" and "Dubai Dial’s Right"
+
+The "Infinite Leads FZ-LLC Guarantee" and "Dubai Dial’s Right" is a limited assurance offered 
+
+by Infinite Leads FZ-LLC that the name and contact information of the Advertiser and the category 
+
+in which the Advertiser is listed by Dubai Dial, have been verified as existing and correct at the time 
+
+of the Advertiser's application to register with Dubai Dial. Infinite Leads makes no representations or 
+
+warranties, whether express or implied, including but not limited to warranties of the continued existence 
+
+and/or operations of the Advertiser, or the quality, quantity, merchantability or fitness for use of the goods 
+
+or services offered by the Advertiser.
+
+10.4 GENERAL DISCLAIMER:
+
+Users using any of services provided by Infinite Leads FZ-LLC cross the following mediums i.e. 
+
+through internet, www.dubaidial.com -DD Website, Wap, SMS, phone including mobile application 
+
+or any other medium are bound by this additional disclaimer wherein they are cautioned to make proper 
+
+enquiry before they (Users) rely, act upon, make any kind of booking or enter into any transaction (any 
+
+kind or any sort of transaction including but not limited to monetary transaction) with the Advertiser 
+
+listed with Dubai Dial.
+
+All the Users are cautioned that all and any information/products/goods or services of whatsoever nature 
+
+provided or received from the Advertiser/s is taken in good faith, without least suspecting the bonafide 
+
+of the Advertiser/s and Infinite Leads does not confirm, acknowledge, or subscribe to the claims and 
+
+representation made by the Advertiser/s listed with Dubai Dial. Further, Infinite Leads is not responsible 
+
+for any act of Advertiser/s listed at Dubai Dial.
+
+11. Unlawful/Illegal Activity
+
+We reserve the right (at our discretion) to investigate complaints or reported violations of the Terms and 
+
+to take any action we deem appropriate including, but not limited to, reporting any suspected unlawful 
+
+activity to law enforcement officials, regulators, or other third-parties and disclosing any information 
+
+necessary or appropriate to such persons or entities relating to your Registration Data, usage history, 
+
+posted materials, IP addresses and traffic information etc. on our website in accordance with UAE Law 
+
+applicable for the same. 
+
+12. Risks
+
+Any risk associated with the goods passes to you upon delivery of the goods to the delivery address by 
+
+the Advertiser/Supplier listed on the website of M/s. Infinite Leads FZ-LLC.
+
+13. Indemnity
+
+You agree to indemnify M/s. Infinite Leads FZ-LLC and its affiliates, employees, agents and 
+
+representatives, and to hold them harmless from any and all claims and liabilities (including any and all 
+
+attorneys' fees) that may arise from your submissions, and from your unauthorized use of goods obtained 
+
+through Infinite Leads FZ LLCC (via its Advertiser), from your breach of this Policy, or from any such 
+
+acts arising through your use of www.dubaidial.com. These obligations will override any termination 
+
+of the Terms and Conditions of the website.
+
+14. Limitation of liability:
+
+You acknowledge that M/s. Infinite Leads FZ-LLC is provided "as is site" and that Infinite Leads FZ 
+
+LLCC is not making and has not made any warranty or representation as to suitability, merchantability, 
+
+quality of the goods which will be supplied or delivered by its listed advertiser for any particular purpose. 
+
+You agree that in using Dubai Dial, You are not relying on any statement or representation made by 
+
+Infinite Leads FZ LLCC which is not expressly contained in this Agreement.
+
+IN NO EVENT SHALL M/S. INFINITE LEADS FZ-LLC BE LIABLE TO YOU ON ACCOUNT OF 
+
+YOUR BOOKING, USE, MISUSE OR RELIANCE ON THE PLATFORMS FOR ANY DAMAGES 
+
+WHATSOEVER, INCLUDING DIRECT, SPECIAL, PUNITIVE, INDIRECT, CONSEQUENTIAL 
+
+OR INCIDENTAL DAMAGES OR DAMAGES FOR LOSS OF PROFITS, REVENUE, USE, OR 
+
+DATA WHETHER BROUGHT IN WARRANTY, CONTRACT, INTELLECTUAL PROPERTY 
+
+INFRINGEMENT, TORT (INCLUDING NEGLIGENCE) OR OTHER THEORY, EVEN IF 
+
+JUST DIAL ARE AWARE OF OR HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+
+DAMAGE, ARISING OUT OF OR CONNECTED WITH THE USE (OR INABILITY TO USE) OR 
+
+PERFORMANCE OF THE PLATFORMS, THE MATERIALS OR THE INTERNET GENERALLY, 
+
+OR THE USE (OR INABILITY TO USE), RELIANCE UPON OR PERFORMANCE OF ANY 
+
+MATERIAL CONTAINED IN OR ACCESSED FROM ANY PLATFORMS. JUST DIAL DOES 
+
+NOT ASSUME ANY LEGAL LIABILITY OR RESPONSIBILITY FOR THE ACCURACY, 
+
+COMPLETENESS, OR USEFULNESS OF ANY INFORMATION, APPARATUS, PRODUCT OR 
+
+PROCESS DISCLOSED ON THE PLATFORMS OR OTHER MATERIAL ACCESSIBLE FROM THE 
+
+PLATFORMS.
+
+YOU ASSUME ALL RESPONSIBILITY AND RISK FOR THE USE OF THIS PLATFORMS 
+
+AND THE INTERNET GENERALLY, OR THE USE (OR INABILITY TO USE), RELIANCE 
+
+UPON OR PERFORMANCE OF ANY MATERIAL CONTAINED IN OR ACCESSED FROM 
+
+ANY PLATFORMS. INFINITE LEADS FZ LLC DOES NOT ASSUME ANY LEGAL LIABILITY 
+
+OR RESPONSIBILITY FOR THE ACCURACY, COMPLETENESS, OR USEFULNESS OF ANY 
+
+INFORMATION, APPARATUS, PRODUCT OR PROCESS DISCLOSED ON THE PLATFORMS OR 
+
+OTHER MATERIAL ACCESSIBLE FROM THE PLATFORMS.
+
+15. Changes/Amendments :
+
+We may periodically change the Terms and the Site without notice, and you are responsible for checking 
+
+these Terms periodically for revisions. All amended Terms become effective upon our posting on the Site, 
+
+and any use of the site after such revisions have been posted, signifies your consent to the changes. If 
+
+any such change or modification is unacceptable to you, we suggest that you may refrain from using the 
+
+website. If following any such change or modification, you continue to use the Website or its Contents, 
+
+you shall be deemed to have accepted those changes or modifications.
+
+16. Privacy Policy:
+
+M/s. Infinite Leads FZ-LLC is committed to protecting the privacy and confidentiality of any 
+
+personal information that it may request and receive from its clients, business partners and other users 
+
+of the Website. To read our privacy policy statement regarding such personal information please refer 
+
+PRIVACY POLICY
+
+You hereby confirm and acknowledge that the contact details and other details provided by you in 
+
+connection with any calls or enquiries made by you to M/s. Infinite Leads FZ-LLC shall be used and 
+
+forwarded by Infinite Leads to the respective Advertiser.
+
+17. General/Miscellaneous Instructions
+
+Dubai Dial's listed advertiser/ actual business owners who has processed and delivered your order as per 
+
+your request is solely responsible for quality, delivery and billing of the products. M/s. Infinite Leads 
+
+FZ-LLC only acts as channel between you and the actual business owners/listed advertiser.
+
+We make no representation and give no warranty or undertaking (express or implied) as to the timeliness, 
+
+accuracy, completeness, effectiveness or reliability of the Website or its Content for any particular 
+
+purpose.
+
+We make no representation and give no warranty or undertaking (express or implied) as to the timeliness, 
+
+accuracy, completeness, effectiveness or reliability of the goods supplied/delivered by the Advertiser.
+
+We will not be responsible or liable for any loss, damage, injury or other claim or outcome arising from 
+
+your reliance upon the Website, or the Website's inability to meet your needs.
+
+We make no representation that materials or other content in the Site are appropriate or available for use 
+
+outside UAE. If you choose to access the Site from other locations or being an alien you do it on your 
+
+own initiative and at your own risk.
+
+We will not be responsible for any delay, failure, interruption, or corruption of any data or other 
+
+information transmitted in connection with your use of the Website, which is beyond our control. For 
+
+the avoidance of doubt, we do not accept responsibility for any interference or damage to your computer 
+
+system which may arise in connection with your use of the Website or any linked website.
+
+18. Links to other Websites:
+
+M/s. Infinite Leads FZ-LLC shall not be responsible for any links to other websites which may occur 
+
+while accessing www.dubaidial.com. The links are places on the website for customer convenience and 
+
+user understands and acknowledges by virtue of usage of the website that any access to such sites is 
+
+at user’s own risk. M/s. Infinite Leads FZ-LLC does not control such sites or the information contained 
+
+therein and shall not be responsible for any loss or damages that the user may sustain as a result of the use 
+
+of such websites or accessing the information contained therein.
+
+19. Force Majeure
+
+Infinite Leads and its advertiser will be not be liable for breach of this terms of use to the extent caused 
+
+by or arising from prohibition or restriction by law or regulation or any government, fire, flood, storms, 
+
+weather, strike, lock-out or other labour problems, accident, riots, acts of God or any other events which 
+
+is beyond its control.
+
+20. Arbitration:
+
+In the event a dispute arises between you and M/s. Infinite Leads FZ-LLC as per the terms of use, the 
+
+parties shall attempt to amicably resolve the dispute through mutual discussions. Where the dispute is 
+
+not resolved for a period of 90 days from the date of the dispute, either party can, upon giving a written 
+
+notice to the other party, declare its intention to initiate arbitration proceedings. The arbitration will be 
+
+conducted in English in accordance with the provisions of DIFC Arbitration LAW 2008. The venue for 
+
+the arbitration shall be UAE. The arbitration shall be conducted by a sole arbitrator appointed by M/s. 
+
+Infinite Leads FZ-LLC. The judgment /verdict of the Arbitration Tribunal shall be final and binding on 
+
+the parties. Cost of arbitration shall be in accordance with the Judgment/Order
+
+21. Governing Law and Jurisdiction:
+
+The terms and conditions of search services provided by M/s. Infinite Leads FZ-LLC shall be governed 
+
+and construed in accordance with the UAE Law. 
+
+22. Severance
+
+Each provision of this Agreement (including these Conditions) is severable. Severance does not affect any 
+
+other provisions.
+
+If you have any concern or non-acceptance of the terms and policies mentioned above please do exit 
+
+www.dubaidial.com.
+
+For further queries &amp;amp; assistance, you may mail us on our complaint@dubaidial.com &amp;amp; ask for our 
+
+Customer Support team </string>
+    <string name="eula1">This Privacy Policy for www.dubaidial.com-DD ("Website") is to be read, understood and applied 
+
+in connection with the Terms &amp; Conditions which are also exhibited/displayed on this website. 
+
+This Privacy Policy has been formulated to enable users understand how their Privacy is protected 
+
+and upon visiting the website and also for a better understanding of the website and the Company 
+
+objective to provide quality service and output to all Users/Customers. 
+
+Introduction
+
+In the course of registering for and availing various services we provide from time to time through our 
+
+website www.dubaidial.com-DD ("Website"),telephone search, SMS, WAP, Mobile application or 
+
+any other medium in which Dubai Dial may provide services (collectively referred to as "Media"), it is 
+
+important for Infinite Leads FZ-LLC to collect, use and share personal information for which, you 
+
+may be required to give your name, residence address, workplace address, email address, date of birth, 
+
+educational qualifications and similar Personal Information ("Personal Information"). 
+
+Personal Information
+
+The Personal Information is used for general purposes: 
+
+ÿ To customize the content you see, 
+
+ÿ To fulfill your requests for services requested through our website,
+
+ÿ To resolve disputes and collect fees
+
+ÿ To encourage and facilitate smooth and safe usage of the website and related services
+
+ÿ To communicate any promotions/offers to the users
+
+ÿ To obtain customer/user feedback you about our services and to provide updates as and 
+
+when required as the case maybe. 
+
+Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the 
+
+Media as abovementioned.
+
+We are committed to protecting the privacy and confidentiality of all Personal Information that you may 
+
+share as a user of Media. In furtherance thereof, we have this policy to demonstrate our good faith.
+
+You acknowledge that you are disclosing Personal Information voluntarily. Prior to the completion of any 
+
+registration process on our website or prior to availing of any services offered on our website if you wish 
+
+not to disclose any Personal Information you may refrain from doing so; however if you dont provide 
+
+information that is requested, it is possible that the registration process would be incomplete and/or you 
+
+would not be able to avail our services.
+
+This policy does not apply to the practices of organizations that we do not own or to people that we do not 
+
+employ or manage.
+
+Disclosure of Information:
+
+Personal Information will be kept confidential and will be used for our research, marketing, and strategic 
+
+client analysis objectives and other internal business purposes only. "Infinite Leads FZ - LLC" does not 
+
+rent, sell, disclose or share personal information about you with other people or nonaffiliated companies 
+
+except to provide products, services, or information you have requested when you are a customer of our 
+
+search services through any of the Media after obtaining your permission wherein you shall be deemed to 
+
+have given your consent for the same , or under the following circumstances:
+
+ÿ For any legal issues in order to establish/exercise our legal rights or defend against any 
+
+legal claims which may arise in future
+
+ÿ To enable investigate, prevent or take necessary legal action against any suspected illegal 
+
+activities, fraud, situations involving potential threats to the physical safety of any person, 
+
+violations of Terms and Conditions, or as otherwise required by UAE Law.
+
+"Infinite Leads FZ-LLC" does not provide any personal information to the advertiser when you interact with 
+
+or view an advertisement.
+
+Further, the subscribers / advertisers who are listed with us, may call you, based on the query or enquiry 
+
+that you make with us, enquiring about any
+
+• Product / Service or
+
+• Product / Service of any subscriber / advertiser or
+
+• Product / Service of any particular subscriber / advertiser.
+
+Internet Cookies
+
+Like all other websites, we use cookies to improve the content and the services provided to you while 
+
+you are using our website. Cookies do not contain or capture any personal information but it may capture 
+
+computer identification information.
+
+Most Internet browsers automatically accept cookies, however, you have the option to either accept or stop 
+
+accepting cookies by changing your computer browser settings accordingly. Your decision to refuse cookies 
+
+from www.dubaidial.com-DD will not prevent you from using our website but may limit your option to use 
+
+some of our advanced features
+
+Advertiser Listing
+
+The website of Infinite Leads FZ-LLC contains third party advertisers listed which includes advertisers 
+
+listed with/without their permission. For those advertisers listed without their permission has any objection, 
+
+the available options are to either contact Infinite Leads FZ-LLC or to address the concern in writing to the 
+
+Company within a period of 7 working days and the listing shall be removed within....working days.
+
+Any update or change of records/information of the Agent/Advertiser shall have to communicated to Infinite
+
+Leads FZ-LLC via email and the necessary changes shall take effect within a period of 3 working days.
+
+Payments and Third Party Advertisers
+
+All the payments shall be made to Infinite Leads FZ-LLC by the users via cheques and bank transfer. 
+
+Infinite Leads FZ-LLC shall not be responsible for any payments made by the users to any third party 
+
+advertisers/agents. Our connection with the Advertisers/agents shall be limited to serve or present the ads 
+
+that appear on our website.
+
+Privacy and Security
+
+We give you the ability to edit your account information and preferences at any time, including whether you 
+
+want us to contact you about new services. 
+
+All personal electronic details will be kept private by the “website” except for those that you wish to disclose.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before 
+
+granting access or making corrections.
+
+In case of any act which is in violation of the laws of UAE, and/or the terms of use of the Service you forfeit your 
+
+privacy rights over your personal information.
+
+Infinite Leads FZ-LLC takes your security seriously and takes reasonable steps to protect your 
+
+information.
+
+However, no internet transactions or usage can be guaranteed as 100% secure and safe. We shall strive 
+
+to take reasonable efforts to ensure and safeguard the systems comprising our website. The possibility 
+
+of information provided by the users being destroyed/accessed/disclosed due to dysfunction or breach of 
+
+software/firewalls we may employ cannot be ruled out. 
+
+Infinite Leads FZ - LLC shall take all measures to evaluate and implement the latest available software 
+
+technology to minimize unauthorized access and associated risks, however we cannot guarantee the users 
+
+a total risk free technology in our system. 
+
+Secure Storage
+
+Infinite Leads FZ - LLC maintains physical, electronic safeguards to protect personal information in 
+
+accordance with the procedures of UAE Law
+
+If you are our corporate customer, it is possible that we have entered into a contract with you for non-
+disclosure of confidential information. This Policy shall not affect such a contract in any manner.
+
+Marketing/Customer Service
+
+If a user has once provided information to Infinite Leads FZ – LLC, he/she may receive emails/telephone 
+
+calls/SMS from the Company or its associated branches in UAE, from time to time which contains 
+
+promotional materials/market research surveys/ news updates. If any user does not intend to receive them, 
+
+they may contact the details listed below:
+
+Infinite Leads FZ-LLZ Customer Care:
+
+Please provide the address
+
+Privacy Policy Updates 
+
+Infinite Leads FZ – LLC reserves the right to update this Private Policy to reflect any changes from time to 
+
+time. In such cases, the latest Privacy Policy supersedes and replaces all the previously posted Privacy 
+
+Policies.
+
+If you have any questions or concerns about the privacy policies please email us 
+
+ at privacy@dubaidial.com.</string>
+    <string name="fetch_cityname">Fetching City Names.</string>
+    <string name="forget_pass_text">Enter your email address below and we\&amp;amp;apos;ll send a special reset password link to your inbox.</string>
+    <string name="guest_user">Please Register. Guest user do not have access to for this.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="invalid_pass">Password does not match.Please re-enter valid password</string>
+    <string name="loading">Loading. Please Wait..</string>
+    <string name="logical_error">Unable to connect dubai dail at this moment.Please try again.</string>
+    <string name="version">DD V.10</string>
+    <string name="wallet_buy_button_place_holder" translation_description="Text on a button that allows a user to make a payment with Google Wallet [CHAR LIMIT=30]">Buy with Google</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsFloating">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <style name="TransparentProgressDialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item name="android:textColor">@color/wallet_primary_text_holo_light</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_light</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_light</item>
+        <item name="android:textColorLink">@color/wallet_link_text_light</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance" parent="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item name="android:textColor">@color/wallet_secondary_text_holo_dark</item>
+        <item name="android:textColorHighlight">@color/wallet_highlighted_text_holo_dark</item>
+        <item name="android:textColorHint">@color/wallet_hint_foreground_holo_dark</item>
+        <item name="android:textColorLink">@color/wallet_holo_blue_light</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item name="buyButtonHeight">48dp</item>
+        <item name="buyButtonWidth">match_parent</item>
+        <item name="buyButtonText">buy_with_google</item>
+        <item name="buyButtonAppearance">classic</item>
+        <item name="maskedWalletDetailsTextAppearance">@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item name="maskedWalletDetailsHeaderTextAppearance">@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
+        <item name="maskedWalletDetailsButtonBackground">@android:drawable/btn_default</item>
+        <item name="maskedWalletDetailsButtonTextAppearance">@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item name="maskedWalletDetailsLogoTextColor">@color/wallet_bright_foreground_holo_dark</item>
+        <item name="maskedWalletDetailsLogoImageType">classic</item>
+    </style>
+    <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/com_facebook_button_blue</item>
+        <item name="android:textColor">@color/com_facebook_loginview_text_color</item>
+        <item name="android:textSize">@dimen/com_facebook_loginview_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingLeft">@dimen/com_facebook_loginview_padding_left</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style" parent="@android:style/Widget.Button">
+        <item name="android:width">205dp</item>
+        <item name="android:height">44dp</item>
+        <item name="android:background">@drawable/com_facebook_loginbutton_silver</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#4B5164</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="tooltip_bubble_text">
+	    <item name="android:textColor">@android:color/white</item>
+	    <item name="android:gravity">left</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowDy">-1</item>
+	    <item name="android:shadowRadius">0.25</item>
+	    <item name="android:shadowColor">#40000000</item>
+    </style>
+</resources>

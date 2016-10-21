@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fi">
+        <item>A</item>
+        <item>Almak</item>
+        <item>Anlamak</item>
+        <item>Anlasmak</item>
+        <item>Anlatmak</item>
+        <item>Ayrilmak</item>
+    </string-array>
+    <string-array name="cityNames">
+        <item>Select City</item>
+        <item>Abu Dhabi</item>
+        <item>Ajman</item>
+        <item>Al Ain</item>
+        <item>Dubai</item>
+        <item>Fujairah</item>
+        <item>Sharjah</item>
+        <item>Ras Al Khaimah</item>
+        <item>Umm Al Quwain</item>
+    </string-array>
+    <string-array name="Categories">
+        <item>Select Category</item>
+        <item>Advertising &amp; Marketing</item>
+        <item>Air Conditioning</item>
+        <item>Astrology</item>
+        <item>Automobile &amp; Car Accessories</item>
+        <item>Bank</item>
+        <item>Boutiques</item>
+        <item>Spa &amp; Saloon</item>
+        <item>Building Material &amp; Construction Contractors</item>
+        <item>Car Hire &amp; Leasing</item>
+        <item>Cargo Services</item>
+        <item>Catering</item>
+        <item>Cinema</item>
+        <item>Cleaning &amp; Janitorial Services</item>
+        <item>Clinics</item>
+        <item>Computer</item>
+        <item>Courier Services</item>
+        <item>Dentist</item>
+        <item>Digital Printing</item>
+        <item>Electricians &amp; Electromechanical Contractors</item>
+        <item>Electronics</item>
+        <item>Engineers - Consulting</item>
+        <item>Event Management</item>
+        <item>Food &amp; Fruit Dealers</item>
+        <item>Furniture</item>
+        <item>Gym</item>
+        <item>Hospital</item>
+        <item>Hotels</item>
+        <item>Hardware</item>
+        <item>Interior Decorators &amp; Designers</item>
+        <item>Labour Supply</item>
+        <item>Lawyers</item>
+        <item>Marble &amp; Granite - Mfrs &amp; Suppliers</item>
+        <item>Medical Equipment Suppliers</item>
+        <item>Mineral Water</item>
+        <item>Oil Companies</item>
+        <item>Pest Control</item>
+        <item>Pets Care</item>
+        <item>Pharmacy</item>
+        <item>Pipe &amp; Pipe Fitting Suppliers</item>
+        <item>Plastics &amp; Plastic Products Mfrs &amp; Suppliers</item>
+        <item>Real Estate</item>
+        <item>Pharmacy</item>
+        <item>Recruitment Consultants</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Safety &amp; Security</item>
+        <item>Shipping Companies &amp; Agents</item>
+        <item>Steel Fabricators &amp; Engineers</item>
+        <item>Supermarket</item>
+        <item>Textiles</item>
+        <item>Transport Companies</item>
+        <item>Travel Agents</item>
+        <item>Tyre Dealers</item>
+        <item>Typing Centers</item>
+        <item>Jewellers</item>
+        <item>Florists</item>
+        <item> Charity Organisations</item>
+        <item>Ministries and Govt. Department</item>
+        <item>Embassies &amp; Consulates</item>
+        <item>Colleges and Universities</item>
+        <item>Driving Institutions</item>
+        <item>Educational Institutes</item>
+        <item>Radio Stations</item>
+        <item>TV Stations</item>
+        <item>Insurance Companies</item>
+        <item>Photo Studios</item>
+        <item>Accountants</item>
+        <item>Houseware Dealers</item>
+        <item>Laundries</item>
+        <item>Bookshop</item>
+        <item>Foot Wear</item>
+        <item>Opticals</item>
+    </string-array>
+
+</resources>

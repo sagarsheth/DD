@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <include
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            layout="@layout/list_your_business_header" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/companyname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Company Name"
+                android:inputType="textPersonName"
+                android:padding="5dp" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/contactname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Contact Name"
+                android:inputType="textPersonName"
+                android:padding="5dp" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/emailadd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Email Address"
+                android:inputType="textEmailAddress"
+                android:padding="5dp" >
+            </EditText>
+
+            <Spinner
+                android:id="@+id/citynm"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:entries="@array/cityNames"
+                android:spinnerMode="dropdown" >
+            </Spinner>
+
+            <EditText
+                android:id="@+id/address"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Address"
+                android:inputType="textPostalAddress"
+                android:padding="5dp" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/Pobox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Pobox No"
+                android:inputType="text"
+                android:padding="5dp" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/landmark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Landmark"
+                android:inputType="text"
+                android:padding="5dp" >
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/companyno"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="3"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:ems="10"
+                    android:padding="5dp"
+                    android:text="+971"
+                    android:visibility="gone" >
+                </EditText>
+
+                <EditText
+                    android:id="@+id/mobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:ems="10"
+                    android:hint="Mobile No"
+                    android:inputType="phone"
+                    android:padding="5dp" >
+                </EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/company"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="3"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:editable="false"
+                    android:ems="10"
+                    android:padding="5dp"
+                    android:text="+971"
+                    android:visibility="gone" >
+                </EditText>
+
+                <EditText
+                    android:id="@+id/landline"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:ems="10"
+                    android:hint="Landline Number"
+                    android:inputType="phone"
+                    android:padding="5dp" >
+                </EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/company"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="3"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:editable="false"
+                    android:ems="10"
+                    android:padding="5dp"
+                    android:text="+971"
+                    android:visibility="gone" >
+                </EditText>
+
+                <EditText
+                    android:id="@+id/faxx"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:ems="10"
+                    android:hint="Fax Number"
+                    android:inputType="phone"
+                    android:padding="5dp" >
+                </EditText>
+            </LinearLayout>
+
+            <EditText
+                android:id="@+id/cservice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Customer Service"
+                android:inputType="text"
+                android:padding="5dp" >
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:orientation="horizontal" >
+
+                <EditText
+                    android:id="@+id/company"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="3"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:editable="false"
+                    android:ems="10"
+                    android:padding="5dp"
+                    android:text="http://"
+                    android:visibility="gone" >
+                </EditText>
+
+                <EditText
+                    android:id="@+id/fax"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bar_lightgrey_bg"
+                    android:ems="10"
+                    android:hint="Website"
+                    android:inputType="textWebEmailAddress"
+                    android:padding="5dp" >
+                </EditText>
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="1dp"
+                android:layout_marginLeft="100dp"
+                android:text="(eg. http://www.abc.com)" />
+
+            <Spinner
+                android:id="@+id/category"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:entries="@array/Categories"
+                android:spinnerMode="dropdown" >
+            </Spinner>
+
+            <EditText
+                android:id="@+id/profile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Profile"
+                android:inputType="textMultiLine"
+                android:paddingTop="5dp" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/brand"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:background="@drawable/bar_lightgrey_bg"
+                android:ems="10"
+                android:hint="Brands"
+                android:inputType="text"
+                android:padding="5dp" >
+            </EditText>
+
+            <ImageView
+                android:id="@+id/companylogo"
+                android:layout_width="96dp"
+                android:layout_height="96dp"
+                android:layout_marginTop="5dp"
+                android:src="@drawable/no_image_listing" />
+
+            <Button
+                android:id="@+id/submit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@drawable/btn_grey_bg"
+                android:text="Submit"
+                android:textColor="@android:color/black"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

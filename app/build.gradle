@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 'Google Inc.:Google APIs:19'
+    buildToolsVersion "24.0.3"
+
+    defaultConfig {
+        applicationId "com.techpro.dubaidial"
+        minSdkVersion 23
+        targetSdkVersion 23
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.facebook.android:facebook-android-sdk:3.23.1'
+    compile 'com.google.android.gms:play-services:5.+'
+    compile 'com.android.support:support-v4:23.+'
+    compile files('libs/linkedin-j-android.jar')
+    compile files('libs/signpost-commonshttp4-1.2.1.1.jar')
+    compile files('libs/signpost-core-1.2.1.1.jar')
+    compile files('libs/signpost-jetty6-1.2.1.1.jar')
+    compile files('libs/twitter4j-core-4.0.1.jar')
+    compile files('libs/gpslib.jar')
+}

@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/adapter_searchresult.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/adapter_searchresult.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/map_activity.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/map_activity.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/share_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/share_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/hotel_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/hotel_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_webview.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_checkbox.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/list_group.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/list_group.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_row.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_search_bar_layout.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment_list_row.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_placepickerfragment_list_row.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/guesst_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/guesst_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/header_searchresult.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/header_searchresult.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/slideout.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/slideout.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/list_your_business_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/list_your_business_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/header_layout.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/header_layout.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_activity_circle_row.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/header_listreview.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/header_listreview.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/header_main.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/header_main.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_business_listing.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_business_listing.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_image.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_placepickerfragment.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_signin.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/forget_pass_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/forget_pass_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/drawer_layout.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/drawer_layout.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_cityselect.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_cityselect.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/fav_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/fav_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_searchresult1.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_searchresult1.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_guestlogin.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_guestlogin.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar_stub.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_forgotpassword.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_forgotpassword.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/feedback_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/feedback_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_title_bar.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/tp_slider.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/tp_slider.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_searchresult.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_searchresult.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/subcat_list.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/subcat_list.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_friendpickerfragment.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/sign_up_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/sign_up_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_favourites.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_favourites.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_addreview.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_addreview.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/review_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/review_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_login_activity_layout.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_feedback.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/list_searchresult.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/list_searchresult.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/adapter_favourite.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/adapter_favourite.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/ln_dialog.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/ln_dialog.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_search_box.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_review.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_review.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_fullscreenimage.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_fullscreenimage.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/activity_details.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/activity_details.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_picker_list_section_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/com_facebook_usersettingsfragment.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/3.23.1/res/layout/com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/adapter_reviewlist.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/adapter_reviewlist.xml"
+    },
+    {
+        "merged": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/build/intermediates/res/merged/debug/layout/location_header.xml",
+        "source": "/home/sagars/Perforce/SSL-MNO_Team1_sagar.s_STA111703_6309/DEV/Application/3rdPartyApp/USA/SSL/OmadmSpr_Projects/Omadm/J3Pop/DubaiDial/app/src/main/res/layout/location_header.xml"
+    }
+]
